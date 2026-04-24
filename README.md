@@ -16,6 +16,7 @@ A curated list of awesome Kubernetes resources and projects, inspired by the [aw
 ## Tools and Projects
 - [Awesome Kubernetes](https://github.com/rohitg00/awesome-kubernetes) - A curated list of awesome Kubernetes tools and resources. 💡
 - [Awesome K8s Resources](https://github.com/tomhuang12/awesome-k8s-resources) - Another great list of Kubernetes tools and resources. 🛠️
+- [KubeStellar Console](https://console.kubestellar.io) - Open-source AI-powered multi-cluster Kubernetes dashboard with real-time observability, AI-guided operations, and 20+ CNCF integrations. CNCF Sandbox project. 🎯
 - [CNCF Graduated and Incubating Projects](https://www.cncf.io/projects/) - Explore projects that are part of the Cloud Native Computing Foundation. 🎓
 
 ## Community and Events
